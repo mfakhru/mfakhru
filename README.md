@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: Electrical Engineering
 
-📫 How to reach me: [![LinkedIn][1.2]][1]
+📫 How to reach me: on LinkkedIn [![LinkedIn][1.2]][1]
 
 <!--
 Here are some ideas to get you started:
