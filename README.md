@@ -1,4 +1,4 @@
-### Hi, I'm Muhammad Fakhrurrozi 👋
+### Hi, I'm M Fakhrurrozi 👋
 
 ⚡ Fun fact: Electrical Engineering
 
