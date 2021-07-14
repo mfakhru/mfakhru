@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-[![Fakhrurrozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifakhru&show_icons=true&theme=vue)](https://github.com/sifakhru)
+[![Fakhrurrozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifakhru&show_icons=true&theme=vue)](https://github.com/mfakhru)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifakhru&layout=compact&theme=vue)](https://github.com/sifakhru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifakhru&layout=compact&theme=vue)](https://github.com/mfakhru)
