@@ -1,4 +1,4 @@
-### Hi, I'm [Fakhrurrozi](sifakhru.github.io) 👋
+### Hi, I'm [Fakhrurrozi](https://sifakhru.github.io) 👋
 
 [![Linkedin: mfakhrurrozis](https://img.shields.io/badge/-mfakhrurrozis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfakhrurrozis/)](https://www.linkedin.com/in/mfakhrurrozis/)
 [![GitHub: sifakhru](https://img.shields.io/github/followers/sifakhru?label=follow&style=social)](https://github.com/sifakhru)
