@@ -1,12 +1,10 @@
-### Hi, I'm Fakhrurrozi 👋
+### Hi, I'm [Fakhrurrozi](github.io/sifakhru) 👋
 
-⚡ Fun fact: Electrical Engineering
-
-📫 How to reach me: <!-- LinkedIn [![LinkedIn][1.2]][1] -->
-
-![Linkedin: mfakhrurrozis](https://img.shields.io/badge/-mfakhrurrozis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfakhrurrozis/)](https://www.linkedin.com/in/mfakhrurrozis/)
-
+[![Linkedin: mfakhrurrozis](https://img.shields.io/badge/-mfakhrurrozis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfakhrurrozis/)](https://www.linkedin.com/in/mfakhrurrozis/)
 [![GitHub: sifakhru](https://img.shields.io/github/followers/sifakhru?label=follow&style=social)](https://github.com/sifakhru)
+
+- 🌱 I’m currently learning Machine Learning, Data Science, Control System, Web Development
+- ⚡ Fun fact: Electrical Engineering
 
 <!--
 Here are some ideas to get you started:
@@ -19,16 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![Fakhrurrozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifakhru&show_icons=true&theme=vue-dark)
+[![Fakhrurrozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifakhru&show_icons=true&theme=vue)](https://github.com/sifakhru)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifakhru&langs_count=8&theme=vue-dark)
-
-<!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
-
-<!-- Icons 
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-Links to your social media accounts 
-
-[1]: https://www.linkedin.com/in/mfakhrurrozis/ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifakhru&layout=compact&theme=vue)](https://github.com/sifakhru)
