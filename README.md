@@ -2,7 +2,11 @@
 
 ⚡ Fun fact: Electrical Engineering
 
-📫 How to reach me: LinkedIn [![LinkedIn][1.2]][1]
+📫 How to reach me: <!-- LinkedIn [![LinkedIn][1.2]][1] -->
+
+![Linkedin: mfakhrurrozis](https://img.shields.io/badge/-mfakhrurrozis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfakhrurrozis/)](https://www.linkedin.com/in/mfakhrurrozis/)
+
+[![GitHub: sifakhru](https://img.shields.io/github/followers/sifakhru?label=follow&style=social)](https://github.com/sifakhru)
 
 <!--
 Here are some ideas to get you started:
@@ -21,10 +25,10 @@ Here are some ideas to get you started:
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
-<!-- Icons -->
+<!-- Icons 
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+Links to your social media accounts 
 
-[1]: https://www.linkedin.com/in/mfakhrurrozis/
+[1]: https://www.linkedin.com/in/mfakhrurrozis/ -->
