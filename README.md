@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-[![Fakhrurrozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhru&show_icons=true&theme=vue)](https://github.com/mfakhru)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhru&layout=compact&theme=vue)](https://github.com/mfakhru)
+### Github Statistic  
+<p align="left">
+<a href="https://github.com/mfakhru">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfakhru&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhru&layout=compact&langs_count=8&theme=vue"/>
+</a>
+</p>
