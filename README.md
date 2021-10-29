@@ -3,7 +3,7 @@
 [![Linkedin: mfakhrurrozis](https://img.shields.io/badge/-mfakhrurrozis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfakhrurrozis/)](https://www.linkedin.com/in/mfakhrurrozis/)
 [![GitHub: sifakhru](https://img.shields.io/github/followers/mfakhru?label=follow&style=social)](https://github.com/mfakhru)
 
-- 🌱 I’m currently learning Machine Learning, Data Science, Control System, Web Development
+- 🌱 I’m currently learning Machine Learning, Data Science, Mobile Development, Web Development
 - ⚡ Fun fact: Electrical Engineering
 
 <!--
